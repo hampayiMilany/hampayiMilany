@@ -1,12 +1,15 @@
 ## Hi there 👋, I'm Mahdi Hampayi Milany
-### About Me:
+<!-- ![http://url/to/img.png](https://github.com/hampayiMilany/hampayiMilany/blob/main/animation.gif) -->
+![Page Animation](https://github.com/hampayiMilany/hampayiMilany/blob/main/Animation.gif)
+
+### 👦🏻 About Me:
 I'm working in the field of web design, I am very interested in JavaScript and web frameworks, and I am currently researching and studying in the field of JavaScript and web frameworks (especially React).
 
 - 🎶 Pop listener (My favorite singer is Majid Kharratha)
 - 🎮 Gamer (Big fan of Assassins Creed)
 - 🎞️ Love action movies
 
-## Skills
+## 👨🏻‍💻 Skills
 <p align="left">
   <img alt="Static Badge" src="https://img.shields.io/badge/Javascrip-%23292929?style=flat&logo=javascript&logoColor=%23ebe53b&labelColor=%23292929&color=%23292929">
   <img alt="Static Badge" src="https://img.shields.io/badge/Typescript-%23292929?style=flat&logo=typescript&logoColor=%233ea8e6&labelColor=%23292929&color=%23292929">
