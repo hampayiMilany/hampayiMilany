@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Mahdi Hampayi Milany
 <!-- ![http://url/to/img.png](https://github.com/hampayiMilany/hampayiMilany/blob/main/animation.gif) -->
-![Page Animation](https://github.com/hampayiMilany/hampayiMilany/blob/main/Animation.gif)
+![Page Animation](https://github.com/hampayiMilany/hampayiMilany/blob/main/my%20animation.gif)
 
 ### 👦🏻 About Me:
 I am a web designer with a special interest in JavaScript and modern web frameworks. My expertise lies in using JavaScript technologies, especially React. Currently, I am deepening my knowledge in these areas and continuously updating my skills to stay current with new technologies, aiming to deliver more efficient and optimized projects.
