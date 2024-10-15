@@ -1,4 +1,5 @@
 ## Hi there 👋, I'm Mahdi Hampayi Milany
+### 💻 Junior React Developer | 👨🏻‍💻 Front-end Specialist
 <!-- ![http://url/to/img.png](https://github.com/hampayiMilany/hampayiMilany/blob/main/animation.gif) -->
 ![Page Animation](https://github.com/hampayiMilany/hampayiMilany/blob/main/my%20animation.gif)
 
