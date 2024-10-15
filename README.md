@@ -3,17 +3,19 @@
 ![Page Animation](https://github.com/hampayiMilany/hampayiMilany/blob/main/Animation.gif)
 
 ### 👦🏻 About Me:
-I'm working in the field of web design, I am very interested in JavaScript and web frameworks, and I am currently researching and studying in the field of JavaScript and web frameworks (especially React).
+I am a web designer with a special interest in JavaScript and modern web frameworks. My expertise lies in using JavaScript technologies, especially React. Currently, I am deepening my knowledge in these areas and continuously updating my skills to stay current with new technologies, aiming to deliver more efficient and optimized projects.
 
 ### More About Me
-- 🎶 Pop listener (My favorite singer is Majid Kharratha)
+- 🎶 Pop listener
 - 🎮 Gamer (Big fan of Assassins Creed)
-- 🎞️ Love action movies
+- 🎞️ Action Movie Enthusiast
 
 ## 👨🏻‍💻 Skills
 <p align="left">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Javascrip-%23292929?style=flat&logo=javascript&logoColor=%23ebe53b&labelColor=%23292929&color=%23292929">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Typescript-%23292929?style=flat&logo=typescript&logoColor=%233ea8e6&labelColor=%23292929&color=%23292929">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Html-professional-%23000?style=flat&logo=html5&logoColor=%23E34F26&logoSize=auto&label=Html&labelColor=%23000000&color=%23E34F26">
+  <img alt="Static Badge" src="https://img.shields.io/badge/CSS-professional-%23000?style=flat&logo=css3&logoColor=%231572B6&logoSize=auto&label=CSS&labelColor=%23000000&color=%231572B6">
+  <img alt="Static Badge" src="https://img.shields.io/badge/JS-professional-%23000000?style=flat&logo=javascript&logoColor=%23F7DF1E&logoSize=auto&label=JavaScript&labelColor=%23000000&color=%23F7DF1E">
+  <img alt="Static Badge" src="https://img.shields.io/badge/TS-professional-%23000000?style=flat&logo=typescript&logoColor=%2365ADF1&logoSize=auto&label=TypeScript&labelColor=%23000000&color=%2365ADF1">
 </p>
 
 <!--
