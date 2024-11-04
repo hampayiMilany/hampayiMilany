@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Mahdi Hampayi Milany
-### 💻 Junior React Developer | 👨🏻‍💻 Front-end Specialist
+### 💻 React Developer | 👨🏻‍💻 Front-end Specialist
 <!-- ![http://url/to/img.png](https://github.com/hampayiMilany/hampayiMilany/blob/main/animation.gif) -->
 ![Page Animation](https://github.com/hampayiMilany/hampayiMilany/blob/main/my%20animation.gif)
 
@@ -28,6 +28,10 @@ I am a web designer with a special interest in JavaScript and modern web framewo
   <img alt="Static Badge" src="https://img.shields.io/badge/Bootstrap-Intermediate-%23000000?style=flat&logo=bootstrap&logoColor=%237952B3&logoSize=auto&label=Bootstrap&labelColor=%23000000&color=%237952B3">
   <img alt="Static Badge" src="https://img.shields.io/badge/NodeJS-Intermediate-%23000000?style=flat&logo=nodedotjs&logoColor=%235FA04E&logoSize=auto&label=Node.js&labelColor=%23000000&color=%235FA04E">
   <img alt="Static Badge" src="https://img.shields.io/badge/Angular-professional-%23000000?style=flat&logo=angular&logoColor=%23B5314C&logoSize=auto&label=Angular&labelColor=%23000000&color=%23B5314C">
+  <img alt="Static Badge" src="https://img.shields.io/badge/photoshop-professional-%23000?style=flat&logo=adobephotoshop&logoColor=%2331A8FF&label=Adobe%20Photoshop&labelColor=%23230000&color=%2331A8FF">
+  <img alt="Static Badge" src="https://img.shields.io/badge/illustrato-professional-%23000?style=flat&logo=adobeillustrator&logoColor=%23FF9A00&label=Adobe%20Illustrator&labelColor=%23230000&color=%23FF9A00">
+  <img alt="Static Badge" src="https://img.shields.io/badge/adobexd-professional-%23000?style=flat&logo=Adobe%20XD&logoColor=%23FF61F6&label=adobexd&labelColor=%23230000&color=%23FF61F6">
+  <img alt="Static Badge" src="https://img.shields.io/badge/figma-professional-%23000?style=flat&logo=figma&logoColor=%23F24E1E&label=Figma&labelColor=%23230000&color=%23F24E1E">
 </p>
 
 <!--
